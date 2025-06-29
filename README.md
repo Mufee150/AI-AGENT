@@ -31,7 +31,9 @@ AIAGENT/
 
 > 📌 Make sure you have Python, Git, and Ollama installed on your system.
 
-### 1. Clone the Repository
+### 
+
+1. Clone the Repository
 
 ```bash
 git clone https://github.com/Mufee150/AI-AGENT.git
