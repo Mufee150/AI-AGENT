@@ -14,18 +14,6 @@ This is a basic AI research assistant built using **LangChain** and **Ollama**. 
 - 📝 Save functionality simulation (fake save)
 - 🗨️ Natural question-answer format using LangChain's Agent
 
----
-
-
-## 📁 Project Structure
-
-AIAGENT/
-├── main.py # The main Python file to run the agent
-├── tools.py # Tool definitions like search and Wikipedia
-├── README.md # Project documentation
-└── requirements.txt # Python dependencies (create if needed)
-
----
 
 ## 🚀 How to Run
 
@@ -64,6 +52,20 @@ Or replace mistral with a smaller model like llama2 if you face memory issues.
 python main.py
 
 Then type your question and hit Enter.
+
+
+---
+
+## 📁 Project Structure
+
+AIAGENT/
+├── main.py # The main Python file to run the agent
+├── tools.py # Tool definitions like search and Wikipedia
+├── README.md # Project documentation
+└── requirements.txt # Python dependencies (create if needed)
+
+---
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 👩‍💻 Author:
